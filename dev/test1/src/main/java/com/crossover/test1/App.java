@@ -6,8 +6,12 @@ package com.crossover.test1;
  */
 public class App 
 {
+
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	MyClass mul = new MyClass();
+        System.out.println( "Hello World for Math ! " + mul.multiply(2,-3) );
     }
+
+
 }
