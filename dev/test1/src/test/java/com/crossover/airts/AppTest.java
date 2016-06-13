@@ -1,4 +1,4 @@
-package com.crossover.test1;
+package com.crossover.airts;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

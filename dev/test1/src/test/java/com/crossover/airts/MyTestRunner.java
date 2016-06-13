@@ -1,4 +1,4 @@
-package com.crossover.test1;
+package com.crossover.airts;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
